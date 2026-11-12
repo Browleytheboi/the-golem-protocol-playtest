@@ -32,3 +32,19 @@ Your progress saves automatically, including when you close the game.
 If something goes wrong, type **EXPORT** in the game's command line. It saves a file of your progress that you can send me, so I can see exactly where you were.
 
 Created by Brandon Rowley.
+
+---
+
+## Version française
+
+Le jeu est entièrement disponible en français.
+
+1. Ouvrez la page **[Releases](../../releases/latest)** et téléchargez **`The.Golem.Protocol.zip`** (environ 160 Mo).
+2. Faites un clic droit sur le fichier zip, choisissez **Extraire tout**, puis ouvrez le dossier obtenu.
+3. Double-cliquez sur **`The Golem Protocol.exe`**.
+4. Si Windows affiche **« Windows a protégé votre ordinateur »**, c'est seulement parce que le jeu n'est pas signé par un certificat payant. Cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**.
+5. Dans le menu principal, appuyez sur **L** (ou choisissez **[L] LANGUAGE: ENGLISH**) pour passer en français. Le choix est mémorisé.
+
+**Commandes :** cliquez sur l'écran pour vous en approcher, **Échap** pour regarder la salle, **F11** pour le plein écran, **M** pour couper le son. Dans la ligne de commande du terminal, tapez **AIDE** puis Entrée.
+
+**Vos impressions m'intéressent :** combien de temps avez-vous joué, à quel moment vous êtes-vous ennuyé ou bloqué, quels moments de l'histoire vous ont marqué, et surtout : **si une phrase sonne faux ou maladroit en français, dites-le-moi** (une capture d'écran aide beaucoup). En cas de problème, tapez **EXPORTER** pour enregistrer un fichier de votre progression et envoyez-le-moi.
