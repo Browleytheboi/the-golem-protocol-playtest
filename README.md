@@ -6,7 +6,7 @@ Thanks for playtesting! This is an early build of **The Golem Protocol**, an inc
 
 ## How to play
 
-1. Open the **[Releases](../../releases/latest)** page and download **`The Golem Protocol.zip`** (about 160 MB).
+1. Open the **[Releases](../../releases/latest)** page and download **`The.Golem.Protocol.zip`** (about 160 MB).
 2. Right-click the zip and choose **Extract All**, then open the folder that comes out.
 3. Double-click **`The Golem Protocol.exe`**.
 4. Windows may say **"Windows protected your PC."** That's only because the game isn't signed with a paid certificate. Click **More info**, then **Run anyway**.
