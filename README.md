@@ -10,6 +10,7 @@ Thanks for playtesting! This is an early build of **The Golem Protocol**, an inc
 2. Right-click the zip and choose **Extract All**, then open the folder that comes out.
 3. Double-click **`The Golem Protocol.exe`**.
 4. Windows may say **"Windows protected your PC."** That's only because the game isn't signed with a paid certificate. Click **More info**, then **Run anyway**.
+5. The very first launch can take a minute or two while Windows checks the new program. After that it opens quickly.
 
 Windows only for now.
 
@@ -43,7 +44,8 @@ Le jeu est entièrement disponible en français.
 2. Faites un clic droit sur le fichier zip, choisissez **Extraire tout**, puis ouvrez le dossier obtenu.
 3. Double-cliquez sur **`The Golem Protocol.exe`**.
 4. Si Windows affiche **« Windows a protégé votre ordinateur »**, c'est seulement parce que le jeu n'est pas signé par un certificat payant. Cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**.
-5. Dans le menu principal, appuyez sur **L** (ou choisissez **[L] LANGUAGE: ENGLISH**) pour passer en français. Le choix est mémorisé.
+5. Le tout premier lancement peut prendre une minute ou deux, le temps que Windows vérifie le nouveau programme. Ensuite, il s'ouvre rapidement.
+6. Dans le menu principal, appuyez sur **L** (ou choisissez **[L] LANGUAGE: ENGLISH**) pour passer en français. Le choix est mémorisé.
 
 **Commandes :** cliquez sur l'écran pour vous en approcher, **Échap** pour regarder la salle, **F11** pour le plein écran, **M** pour couper le son. Dans la ligne de commande du terminal, tapez **AIDE** puis Entrée.
 
