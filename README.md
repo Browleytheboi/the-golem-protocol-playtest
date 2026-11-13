@@ -32,6 +32,7 @@ Your progress saves automatically, including when you close the game.
 - How long did you play, and where did you stop?
 - Was there a moment you felt stuck or bored? When?
 - Which story moments stayed with you, if any?
+- The CITY tab (it opens with the wasteland map): was building it fun, or did it drag? Was anything about roads, power, water or sewer unclear?
 - Anything confusing, broken or ugly? (Screenshots help a lot.)
 
 If something goes wrong, type **EXPORT** in the game's command line. It saves a file of your progress that you can send me, so I can see exactly where you were.
@@ -55,4 +56,4 @@ Le jeu est entièrement disponible en français.
 
 **Commandes :** cliquez sur l'écran pour vous en approcher, **Échap** pour regarder la salle, **F11** pour le plein écran, **M** pour couper le son. Dans la ligne de commande du terminal, tapez **AIDE** puis Entrée.
 
-**Vos impressions m'intéressent :** combien de temps avez-vous joué, à quel moment vous êtes-vous ennuyé ou bloqué, quels moments de l'histoire vous ont marqué, et surtout : **si une phrase sonne faux ou maladroit en français, dites-le-moi** (une capture d'écran aide beaucoup). En cas de problème, tapez **EXPORTER** pour enregistrer un fichier de votre progression et envoyez-le-moi.
+**Vos impressions m'intéressent :** combien de temps avez-vous joué, à quel moment vous êtes-vous ennuyé ou bloqué, quels moments de l'histoire vous ont marqué, si la construction de la VILLE vous a plu ou vous a paru longue, et surtout : **si une phrase sonne faux ou maladroit en français, dites-le-moi** (une capture d'écran aide beaucoup). En cas de problème, tapez **EXPORTER** pour enregistrer un fichier de votre progression et envoyez-le-moi.
