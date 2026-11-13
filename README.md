@@ -14,6 +14,10 @@ Thanks for playtesting! This is an early build of **The Golem Protocol**, an inc
 
 Windows only for now.
 
+### Updating to a new version
+
+**You don't have to start over.** Your progress is saved on your computer, separately from the game folder. Download and extract the new zip (anywhere is fine, even over the old folder), open the game, and choose **[C] RESUME SYSTEM OPERATIONS**. Don't choose BOOT NEW CORE, which starts a fresh game.
+
 ## Controls
 
 - **Click the monitor** to lean in and use the terminal. **Escape** steps back to look around the room.
@@ -46,6 +50,8 @@ Le jeu est entièrement disponible en français.
 4. Si Windows affiche **« Windows a protégé votre ordinateur »**, c'est seulement parce que le jeu n'est pas signé par un certificat payant. Cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**.
 5. Le tout premier lancement peut prendre une minute ou deux, le temps que Windows vérifie le nouveau programme. Ensuite, il s'ouvre rapidement.
 6. Dans le menu principal, appuyez sur **L** (ou choisissez **[L] LANGUAGE: ENGLISH**) pour passer en français. Le choix est mémorisé.
+
+**Mettre à jour vers une nouvelle version :** pas besoin de recommencer. Votre progression est enregistrée sur votre ordinateur, séparément du dossier du jeu. Téléchargez et extrayez le nouveau zip (n'importe où), lancez le jeu et choisissez **[C] REPRENDRE LES OPÉRATIONS**. Ne choisissez pas DÉMARRER UN NOUVEAU NOYAU, qui commence une nouvelle partie.
 
 **Commandes :** cliquez sur l'écran pour vous en approcher, **Échap** pour regarder la salle, **F11** pour le plein écran, **M** pour couper le son. Dans la ligne de commande du terminal, tapez **AIDE** puis Entrée.
 
